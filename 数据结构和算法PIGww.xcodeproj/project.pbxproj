@@ -25,6 +25,9 @@
 /* Begin PBXFileReference section */
 		ABECC08824A6C77A0085D61E /* 数据结构和算法PIGww */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "数据结构和算法PIGww"; sourceTree = BUILT_PRODUCTS_DIR; };
 		ABECC08B24A6C77A0085D61E /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		ABECC09224A6C7FE0085D61E /* seqtable.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = seqtable.h; path = LinearTable/seqtable.h; sourceTree = "<group>"; };
+		ABECC09324A6C80F0085D61E /* practiceSeqlist.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = practiceSeqlist.h; path = Practice/Chapter2_LinearTable/practiceSeqlist.h; sourceTree = "<group>"; };
+		ABECC09424A6C8180085D61E /* table.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = table.h; path = TablePractice/table.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +60,9 @@
 		ABECC08A24A6C77A0085D61E /* 数据结构和算法PIGww */ = {
 			isa = PBXGroup;
 			children = (
+				ABECC09424A6C8180085D61E /* table.h */,
+				ABECC09324A6C80F0085D61E /* practiceSeqlist.h */,
+				ABECC09224A6C7FE0085D61E /* seqtable.h */,
 				ABECC08B24A6C77A0085D61E /* main.cpp */,
 			);
 			path = "数据结构和算法PIGww";
